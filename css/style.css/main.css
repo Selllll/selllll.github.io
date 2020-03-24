@@ -1,0 +1,20 @@
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+@media only screen and (min-width: 540px)
+{
+
+}
+@media only screen and (min-width: 720px)
+{
+
+}
+@media only screen and(min-width: 960px)
+{
+
+}
+@media only screen and (min-width: 1140px)
+{
+
+}
